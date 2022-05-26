@@ -1,2 +1,2 @@
-# Class-Work-Practice-25-Bootstrap-Practice-1-Javascript
-today our first bootstrap class and we learn hoew to use bootsrap-classes and more
+Today i learned bootstrap classes navbar and carousel and many more new classes..
+its just a p=class practice ...
